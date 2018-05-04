@@ -1,2 +1,2 @@
 # eElectronics-Project
-Project for E-Commerce 
+Project for E-Commerce for shopping online 
